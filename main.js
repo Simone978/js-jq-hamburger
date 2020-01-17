@@ -1,4 +1,4 @@
-$('.fa-bars').click(function(){
+$('.header-right > a i').click(function(){
   $('.hamburger-menu').show();
 });
 
